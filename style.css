@@ -1,6 +1,11 @@
-h1 {
+#main-title {
   colour: red;
+  text-align: center;
+}
+.highlights{
+  colour:green;
+  font-size:20px;
 }
 p{
-  font-size: 18px;
+  font-family: arial,sans-serif;
 }
