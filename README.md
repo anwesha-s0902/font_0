@@ -2,6 +2,7 @@
 <html>
   <head>
     <title>my website</title>
+<link rel="stylesheet" href="style.css">
       <style>
       h1{
       colour: red;
